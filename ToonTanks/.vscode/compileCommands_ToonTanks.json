@@ -1,0 +1,27 @@
+[
+    {
+        "file": "/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/Source/ToonTanks/BasePawn.cpp",
+        "command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.198.rsp",
+        "directory": "/Applications/UE_5.0/Engine/Source"
+    },
+    {
+        "file": "/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/Source/ToonTanks/BasePawn.h",
+        "command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.198.rsp",
+        "directory": "/Applications/UE_5.0/Engine/Source"
+    },
+    {
+        "file": "/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/Source/ToonTanks/ToonTanks.Build.cs",
+        "command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.198.rsp",
+        "directory": "/Applications/UE_5.0/Engine/Source"
+    },
+    {
+        "file": "/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/Source/ToonTanks/ToonTanks.cpp",
+        "command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.198.rsp",
+        "directory": "/Applications/UE_5.0/Engine/Source"
+    },
+    {
+        "file": "/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/Source/ToonTanks/ToonTanks.h",
+        "command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/.vscode/compileCommands_ToonTanks/ToonTanks.198.rsp",
+        "directory": "/Applications/UE_5.0/Engine/Source"
+    }
+]
