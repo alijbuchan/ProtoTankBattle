@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/Source/ToonTanks/ToonTanks.Build.cs",
+		"/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/Source/ToonTanks.Target.cs",
+		"/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/Source/ToonTanksEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

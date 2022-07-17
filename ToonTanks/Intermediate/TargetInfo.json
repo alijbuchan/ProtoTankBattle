@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ToonTanks",
+			"Path": "/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/Source/ToonTanks.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ToonTanksEditor",
+			"Path": "/Users/alijbuchan/Documents/GameBuilds/ProtoTankBattle/ToonTanks/Source/ToonTanksEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
